@@ -1,0 +1,4 @@
+python-telegram-bot>=13.7
+mysql-connector-python>=8.0.26
+numpy>=1.21.0
+configparser>=5.0.2
